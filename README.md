@@ -26,11 +26,9 @@
 ###
 
 <h1 align="center">Hey there 👋 , I'm Ajay</h1>
-<p> Visit my portfolio at <a href='https://portfolio-y4hn.onrender.com/'>Portfolio-Ajayaadhi</a> </p>
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
+<p> Visit my portfolio at <a href='https://portfolio-y4hn.onrender.com/'>Portfolio-Ajayaadhi</a> </p>
 ###
 
 <p align="left">I'm a Data Science enthusiast from India<br><br>- 🔭 I’m working as Data Science Consultant at Logos Labs<br>- 📚 I'm currently learning AWS<br>- ⚡ Ask me about Data Analytics, Machine Learning & NLP</p>
